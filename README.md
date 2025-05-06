@@ -130,9 +130,15 @@
   - [Normcore](https://normcore.io/) - Seamless multiplayer game networking for Unity (Cloud/SaaS).
   - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (Cloud/SaaS).
   - [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) - Lightweight C# networking solution for multiplayer games.
+  - [BestoNet](https://github.com/BestoGames/BestoNet) - A custom rollback networking solution developed for the fighting game Idol Showdown. Built in C# for Unity
 - Go
   - [Nakama](https://github.com/heroiclabs/nakama) - Open-source backend infrastructure for multiplayer games (also with Unity/C# SDK).
   - [GoWorld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping (and Unity demo!).
+- Godot
+  - [Snopek's Godot Rollback Netcode Addon](https://gitlab.com/snopek-games/godot-rollback-netcode/) - An addon for implementing rollback and prediction netcode in the Godot game engine
+  - [Rakugaki Rumble](https://github.com/AndreaJens/rakugaki-rumble) - A small open source Godot 4.2 fighting game project using Snopek's Rollback Addon
+  - [Delta Rollback](https://gitlab.com/BimDav/delta-rollback) - Port of Snopek's Rollback Addon to C++, has increased performance and optimizations compared to the former
+  - [Godot Rollback Fighter Demo](https://github.com/blast-harbour/Godot-Rollback-Fighter-Demo) - Example fighting game project using Delta Rollback.
 - Java
   - [SmartFoxServer](http://smartfoxserver.com/) - Massive multiplayer game server with advanced built-in features.
 - JavaScript
