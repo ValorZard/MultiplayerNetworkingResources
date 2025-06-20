@@ -139,7 +139,7 @@
   - [GoWorld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping (and Unity demo!).
   - [GGPO-Go](https://github.com/assemblaj/ggpo) - GGPO Port Into Go
 - Godot
-  - [Snopek's Godot Rollback Netcode Addon](https://gitlab.com/snopek-games/godot-rollback-netcode/) - An addon for implementing rollback and prediction netcode in the Godot game engine
+  - [Snopek's Rollback Netcode](https://gitlab.com/snopek-games/godot-rollback-netcode/) - Godot addon implementing rollback and prediction netcode.
   - [Rakugaki Rumble](https://github.com/AndreaJens/rakugaki-rumble) - A small open source Godot 4.2 fighting game project using Snopek's Rollback Addon
   - [Delta Rollback](https://gitlab.com/BimDav/delta-rollback) - Port of Snopek's Rollback Addon to C++, has increased performance and optimizations compared to the former
   - [Rollback Fighter Demo](https://github.com/blast-harbour/Godot-Rollback-Fighter-Demo) - Example fighting game using [Delta Rollback Netcode](https://gitlab.com/BimDav/delta-rollback).
