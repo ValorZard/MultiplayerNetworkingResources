@@ -132,7 +132,7 @@
   - [Normcore](https://normcore.io/) - Seamless multiplayer game networking for Unity (Cloud/SaaS).
   - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (Cloud/SaaS).
   - [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) - Lightweight C# networking solution for multiplayer games.
-  - [BestoNet](https://github.com/BestoGames/BestoNet) - A custom rollback networking solution developed for the fighting game Idol Showdown. Built in C# for Unity
+  - [BestoNet](https://github.com/BestoGames/BestoNet) - GGPO-style rollback networking for fighting game in Unity/C#.
   - [PleaseResync](https://github.com/NoisyChain/PleaseResync-Unity) - Peer to Peer Rollback Networking Library Written in C# for Unity 
 - Go
   - [Nakama](https://github.com/heroiclabs/nakama) - Open-source backend infrastructure for multiplayer games (also with Unity/C# SDK).
