@@ -140,7 +140,7 @@
   - [GGPO-Go](https://github.com/assemblaj/ggpo) - GGPO Port Into Go
 - Godot
   - [Snopek's Rollback Netcode](https://gitlab.com/snopek-games/godot-rollback-netcode/) - Godot addon implementing rollback and prediction netcode.
-  - [Rakugaki Rumble](https://github.com/AndreaJens/rakugaki-rumble) - A small open source Godot 4.2 fighting game project using Snopek's Rollback Addon
+  - [Rakugaki Rumble](https://github.com/AndreaJens/rakugaki-rumble) - Small fighting game using [Snopek's Rollback Netcode](https://gitlab.com/snopek-games/godot-rollback-netcode/).
   - [Delta Rollback Netcode](https://gitlab.com/BimDav/delta-rollback) - C++ port of [Snopek's Rollback Netcode](https://gitlab.com/snopek-games/godot-rollback-netcode/) with performance optimizations.
   - [Rollback Fighter Demo](https://github.com/blast-harbour/Godot-Rollback-Fighter-Demo) - Example fighting game using [Delta Rollback Netcode](https://gitlab.com/BimDav/delta-rollback).
 - Java
