@@ -22,7 +22,7 @@
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
 - [Impact Of Latency In Wireless Networks For Real-time Multiplayer Games On Mobile Devices](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2352307/11752_FULLTEXT.pdf) - A paper.
 - [IT Hare on Network Programming](http://ithare.com/category/network-programming/) - Detailed network programming articles from IT Hare team.
-- [I wanna make a fighting game! - Determinism](https://andrea-jens.medium.com/i-wanna-make-a-fighting-game-a-practical-guide-for-beginners-part-5-f049a78ddc5b) - Article explaining the determinism requirements of peer-to-peer rollback netcode, especially for fighting games.
+- [I wanna make a fighting game!](https://andrea-jens.medium.com/i-wanna-make-a-fighting-game-a-practical-guide-for-beginners-part-1-2021-update-955a4672eea5) - Series of articles explaining how to make your own fighting game, with special attention given to the requirements of peer-to-peer rollback netcode, like determinism.
 - [Kieran Newland's Blog](https://www.kierannewland.co.uk/blog/) - Various articles on Unreal Engine 5 multiplayer networking by Kieran Newland.
 - [Lag Compensation - Fair Play for all Pings](https://vercidium.com/blog/lag-compensation/) - An article explaining lag compensation by Mitchell Robinson.
 - [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) - NAT and P2P connectivity by Keith Johnston.
@@ -133,11 +133,9 @@
   - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (Cloud/SaaS).
   - [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) - Lightweight C# networking solution for multiplayer games.
   - [BestoNet](https://github.com/BestoGames/BestoNet) - GGPO-style rollback networking for fighting game in Unity/C#.
-  - [PleaseResync](https://github.com/NoisyChain/PleaseResync-Unity) - Peer to Peer Rollback Networking Library Written in C# for Unity 
 - Go
   - [Nakama](https://github.com/heroiclabs/nakama) - Open-source backend infrastructure for multiplayer games (also with Unity/C# SDK).
   - [GoWorld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping (and Unity demo!).
-  - [GGPO-Go](https://github.com/assemblaj/ggpo) - GGPO Port Into Go
 - Godot
   - [Snopek's Rollback Netcode](https://gitlab.com/snopek-games/godot-rollback-netcode/) - Godot addon implementing rollback and prediction netcode.
   - [Rakugaki Rumble](https://github.com/AndreaJens/rakugaki-rumble) - Small fighting game using [Snopek's Rollback Netcode](https://gitlab.com/snopek-games/godot-rollback-netcode/).
