@@ -141,7 +141,7 @@
 - Godot
   - [Snopek's Rollback Netcode](https://gitlab.com/snopek-games/godot-rollback-netcode/) - Godot addon implementing rollback and prediction netcode.
   - [Rakugaki Rumble](https://github.com/AndreaJens/rakugaki-rumble) - A small open source Godot 4.2 fighting game project using Snopek's Rollback Addon
-  - [Delta Rollback](https://gitlab.com/BimDav/delta-rollback) - Port of Snopek's Rollback Addon to C++, has increased performance and optimizations compared to the former
+  - [Delta Rollback Netcode](https://gitlab.com/BimDav/delta-rollback) - C++ port of [Snopek's Rollback Netcode](https://gitlab.com/snopek-games/godot-rollback-netcode/) with performance optimizations.
   - [Rollback Fighter Demo](https://github.com/blast-harbour/Godot-Rollback-Fighter-Demo) - Example fighting game using [Delta Rollback Netcode](https://gitlab.com/BimDav/delta-rollback).
 - Java
   - [SmartFoxServer](http://smartfoxserver.com/) - Massive multiplayer game server with advanced built-in features.
